@@ -14,6 +14,7 @@ Now I am studying:
 * SQL
 ## Code Example
 ```
+
 .a {
 
 background-color: azur;
@@ -23,6 +24,7 @@ border: 10px lightBlue;
 border-radius: 100px 0 100px 0;
 
 }
+
 ```
 ## Job experience 
 Learning HTML and CSS course by Mimo
